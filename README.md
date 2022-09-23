@@ -23,3 +23,10 @@
 - 1.12 : Anecdotes Step 1
 - 1.13 : Anecdotes Step 2
 - 1.14 : Anecdotes Step 3
+
+## Part 2 [Link](part2/)
+- 2.1 : Course Information Step 6
+- 2.2 : Course Information Step 7
+- 2.3 : Course Information Step 8
+- 2.4 : Course Information Step 9
+- 2.5 : Separate Modules from Course Information
