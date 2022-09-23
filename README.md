@@ -20,3 +20,6 @@
 - 1.9 : Unicafe Step 4
 - 1.10 : Unicafe Step 5
 - 1.11 : Unicafe Step 6
+- 1.12 : Anecdotes Step 1
+- 1.13 : Anecdotes Step 2
+- 1.14 : Anecdotes Step 3
