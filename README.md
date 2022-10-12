@@ -30,3 +30,18 @@
 - 2.3 : Course Information Step 8
 - 2.4 : Course Information Step 9
 - 2.5 : Separate Modules from Course Information
+- 2.6 : The Phonebook Step 1
+- 2.7 : The Phonebook Step 2
+- 2.8 : The Phonebook Step 3
+- 2.9 : The Phonebook Step 4
+- 2.10 : The Phonebook Step 5
+- 2.11 : The Phonebook Step 6
+- 2.12 : Data for Countries Step 1
+- 2.13 : Data for Countries Step 2
+- 2.14 : Data for Countries Step 3
+- 2.15 : The Phonebook Step 7
+- 2.16 : The Phonebook Step 8
+- 2.17 : The Phonebook Step 9
+- 2.18 : The Phonebook Step 10
+- 2.19 : The Phonebook Step 11
+- 2.20 : The Phonebook Step 12
