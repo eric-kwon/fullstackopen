@@ -45,3 +45,27 @@
 - 2.18 : The Phonebook Step 10
 - 2.19 : The Phonebook Step 11
 - 2.20 : The Phonebook Step 12
+
+## Part 3 [Link](part3/)
+- 3.1 : Phonebook Backend Step 1
+- 3.2 : Phonebook Backend Step 2
+- 3.3 : Phonebook Backend Step 3
+- 3.4 : Phonebook Backend Step 4
+- 3.5 : Phonebook Backend Step 5
+- 3.6 : Phonebook Backend Step 6
+- 3.7 : Phonebook Backend Step 7
+- 3.8 : Phonebook Backend Step 8
+- 3.9 : Phonebook Backend Step 9
+- 3.10 : Phonebook Backend Step 10 [Link](https://wild-firefly-4831.fly.dev/)
+- 3.11 : Phonebook Full Stack
+- 3.12 : Command-line Database
+- 3.13 : Phonebook Database Step 1
+- 3.14 : Phonebook Database Step 2
+- 3.15 : Phonebook Database Step 3
+- 3.16 : Phonebook Database Step 4
+- 3.17 : Phonebook Database Step 5
+- 3.18 : Phonebook Database Step 6
+- 3.19 : Phonebook Database Step 7
+- 3.20 : Phonebook Database Step 8
+- 3.21 : Deplyoing the Database Backend to Production
+- 3.22 : Lint Configuration
